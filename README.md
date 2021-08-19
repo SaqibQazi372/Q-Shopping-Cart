@@ -1,0 +1,2 @@
+# Q-Shopping-Cart
+Upon successful completion of this course, students will be able to:  Use node.js to create mobile applications Create a mobile application using node.js and JavaScript frameworks Describe how node.js is used to create web applications Explain how to deploy a node.js application on the web MATERIALS AND RESOURCES  Textbooks:  1.  Learning Node.js: A Hands-On Guide to Building Web Applications in JavaScript, 2/E  2.  Node.js, MongoDB and Angular Web Development 2nd Ed: The definitive guide to using the MEAN stack
